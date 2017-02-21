@@ -20,15 +20,7 @@
 	import './components/common/spinner/spinner.js';
 	import './components/common/video-review/video-review.js';
 	import './components/global/navigation/navigation.js';
-	import './components/sections/about/about-reviews/about-reviews.js';
-	import './components/sections/cart/cart-items/cart-items.js';
-	import './components/sections/cart/cart-totals/cart-totals.js';
-	import './components/sections/catalog-3/product-group-actions.js';
-	import './components/sections/certificates/certificates.js';
-	import './components/sections/contacts/contacts/contacts.js';
-	import './components/sections/dealers/dealers/dealers.js';
-	import './components/sections/gosts/gosts-list/gosts-list.js';
-	import './components/sections/terms/terms-description/terms-description.js';
+
 
 
 

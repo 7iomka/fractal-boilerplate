@@ -1,6 +1,7 @@
 variants:
 - name: default
   context:
+    mods: []
 - name: inline
   context:
     mods: [inline]
